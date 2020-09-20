@@ -8,3 +8,5 @@
 - 📫 How to reach me: @sayboras
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hate fun fact
+
+I am open for part-time work and remote work right now :construction_worker:
