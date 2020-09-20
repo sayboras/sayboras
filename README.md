@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as software engineer fulltime. I try my best to arrange some time daily at night for OSS contributions.
+- 🔭 I’m currently working as software engineer full-time. I try my best to arrange some time daily at night for OSS contributions.
 - 🌱 I’m currently learning golang and networking with eBPF.
 - ⚡ I'm helping to do code review, answer questions, discuss ideas in @golangci-lint [project](https://github.com/pulls?q=repo%3Agolangci%2Fgolangci-lint+author%3Asayboras+).
 - 👯 I’m looking to collaborate on @cilium project, where I learn from other members and community daily, and in turn I contribute back with some [bug fixes and features](https://github.com/pulls?q=org%3Acilium+author%3Asayboras+).
@@ -9,4 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hate fun fact
 
-I am open for part-time work and remote work right now :construction_worker:
+I am open to part-time or remote work right now :construction_worker:. If you have any, feel free to reach me at one of below:
+
+- [LinkedIn](https://www.linkedin.com/in/cong-tam-mach/)
+- [Stack Overflow](https://stackoverflow.com/users/8763847/sayboras)
+- [Twitter](https://twitter.com/sayboras)
