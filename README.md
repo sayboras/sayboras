@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hate fun fact
 
-I am open to part-time or remote work right now :construction_worker:. If you have any, feel free to reach me at one of below:
+I am open to part-time work right now. If you have any, feel free to reach me out at one of below:
 
 - [LinkedIn](https://www.linkedin.com/in/cong-tam-mach/)
 - [Stack Overflow](https://stackoverflow.com/users/8763847/sayboras)
