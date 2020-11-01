@@ -16,7 +16,7 @@ I am open to part-time work right now. If you have any, feel free to reach me ou
 - [Twitter](https://twitter.com/sayboras)
 
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayboras&count_private=true&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayboras&count_private=false&show_icons=true"/>
 </span>
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayboras" />
