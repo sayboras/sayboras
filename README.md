@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hate fun fact
 
-I am open to new exiting opportunities right now. If you have any, feel free to reach me out at one of below:
+I am open to new exciting opportunities right now. If you have any, feel free to reach me out at one of below:
 
 - [LinkedIn](https://www.linkedin.com/in/cong-tam-mach/)
 - [Stack Overflow](https://stackoverflow.com/users/8763847/sayboras)
