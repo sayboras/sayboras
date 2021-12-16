@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as software engineer full-time at @zendesk. 
+- 🔭 I’m currently working as full-time software engineer.
 - :bridge_at_night: I try my best to arrange some time daily at night for OSS contributions.
 - 🌱 I’m currently learning golang and networking with eBPF.
 - ⚡ I'm helping to do code review, answer questions, discuss ideas in @golangci-lint [project](https://github.com/pulls?q=repo%3Agolangci%2Fgolangci-lint+author%3Asayboras+).
