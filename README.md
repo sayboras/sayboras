@@ -1,17 +1,33 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as full-time software engineer.
-- :bridge_at_night: I try my best to arrange some time daily at night for OSS contributions.
-- 🌱 I’m currently learning golang and networking with eBPF.
-- ⚡ I'm helping to do code review, answer questions, discuss ideas in @golangci-lint [project](https://github.com/pulls?q=repo%3Agolangci%2Fgolangci-lint+author%3Asayboras+).
-- 👯 I’m looking to collaborate on @cilium project, where I learn from other members and community daily, and in turn I contribute back with some [bug fixes and features](https://github.com/pulls?q=org%3Acilium+author%3Asayboras+).
-- :sparkles: I used to be quite active in [eksctl](https://github.com/pulls?q=repo%3Aweaveworks%2Feksctl+author%3Asayboras+). Some of issues you are facing might be introduced by me :disappointed:.
-- 📫 How to reach me: @sayboras
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hate fun fact
-
 I am not looking for any opportunity right now, however, feel free to connect via one of the below:
 
 - [LinkedIn](https://www.linkedin.com/in/cong-tam-mach/)
 - [Stack Overflow](https://stackoverflow.com/users/8763847/sayboras)
 - [Twitter](https://twitter.com/sayboras)
+
+<a href="https://github.com/sayboras">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/sayboras">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/sayboras">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/sayboras">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/sayboras">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/sayboras">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/sayboras">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
